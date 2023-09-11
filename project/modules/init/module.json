@@ -1,0 +1,8 @@
+{
+	"name": "register-db",
+	"platforms": ["web", "android", "ios"],
+	"bundle": "start",
+	"ts": {
+		"files": ["*"]
+	}
+}

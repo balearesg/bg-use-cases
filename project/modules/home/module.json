@@ -1,0 +1,19 @@
+{
+	"name": "home-page",
+	"platforms": ["web", "ios", "android"],
+	"widget": {
+		"route": "/",
+		"is": "page",
+		"sass": {
+			"path": "/widget/sass",
+			"files": ["*"]
+		},
+		"ts": {
+			"path": "/widget/ts",
+			"files": ["*"]
+		},
+		"element": {
+			"name": "home-page"
+		}
+	}
+}
