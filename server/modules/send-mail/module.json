@@ -1,0 +1,10 @@
+{
+  "name": "send-mail",
+  "ts": {
+    "path": "ts",
+    "files": [
+      "*"
+    ]
+  },
+  "platforms": "node"
+}
