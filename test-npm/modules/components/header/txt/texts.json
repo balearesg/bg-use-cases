@@ -1,0 +1,8 @@
+{
+    "es": {
+        "title": "Esto es un titulo de un bundle de texto en un modulo que tiene un bundle de tipo code"
+    },
+    "en": {
+        "title": "This is a title of a text bundle in a module that has a code bundle."
+    }
+}
